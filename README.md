@@ -1,4 +1,4 @@
-# Frontend Mentor Preview Card Challenge w/ Bootstrap
+# Frontend Mentor Qr Code Challenge w/ Bootstrap
 
 ## Project Overview
 
